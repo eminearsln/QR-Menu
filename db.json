@@ -1,0 +1,181 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Keçi Sütlü Maraş Dondurması",
+      "price": 11,
+      "category": "ice-creams",
+      "img": "img/dondurma-sade.jpg",
+      "desc": "Kahramanmaraş dövme dondurması, Maraşlı Osman Ağa'nın orkideyi salep yaparken tesadüfen keşfettiği tatlı. Kahramanmaraş dondurmasının en önemli özelliklerinden biri, keçi sütünden yapılmasıdır."
+    },
+    {
+      "id": 2,
+      "title": "Çikolata Parçacıklı Dondurma",
+      "price": 15.99,
+      "category": "ice-creams",
+      "img": "img/parcacikli-dondurma.jpeg",
+      "desc": "Çikolata parçacıklı dondurma sevenler buraya! Organik çikolata ve klasik lezzetleri olan kaymaklı dondurma ile birleştirildi, ortaya ise nefis mi nefis bu dondurma çıktı!."
+    },
+    {
+      "id": 3,
+      "title": "Limonlu Dondurma",
+      "price": 12.99,
+      "category": "ice-creams",
+      "img": "img/dondurma-limonlu.jpg",
+      "desc": "Limonlu dondurmamız yaz aylarının vazgeçilmez tatlılarından biridir. Limonlu dondurma içinizi ferahlatır. Limonlu dondurmamızda tamamen Antalya ve Mersin illerimizde elde edilen dikenli gerçek limon kullanılmaktadır. ."
+    },
+    {
+      "id": 4,
+      "title": "Kavunlu Dondurma",
+      "price": 12.99,
+      "category": "ice-creams",
+      "img": "img/dondurma-kavunlu.jpeg",
+      "desc": "Meyvenin vermiş olduğu hafiflik, sütle buluştuğu zaman nefis bir dondurma tarifini ortaya çıkıyor.Yaz aylarının lezzetli meyvelerinden yapılan ferah dondurma tariflerimizden biri olan kavunlu dondurma tarifi karşınızda!"
+    },
+    {
+      "id": 5,
+      "title": "Fıstıklı Dondurma",
+      "price": 16.99,
+      "category": "ice-creams",
+      "img": "img/dondurma-fistikli.jpg",
+      "desc": "Özenle toplanmış ve temizlenmiş Kahramanmaraş fıstığı parçalarının keci sütü ile birleşimiyyle  eşsiz bir lezzete dönüşmüştür. Kahramanmaraş fıstıklı dondurma damağınızda gerçek  fıstık tadı bırakacaktır. "
+    },
+    {
+      "id": 6,
+      "title": "Çileki Dondurma",
+      "price": 13.99,
+      "category": "ice-creams",
+      "img": "img/dondurma-cilek.jpg",
+      "desc": "Tamamen Özenle toplanmış doğal, organik Mersin çilekleriyle harmanlanmış ve keci sütü ile harmanlanarak eşsiz bir lezzete dönüşmüştür. "
+    },
+    {
+      "id": 7,
+      "title": "Cevizli Ev Baklavası",
+      "price": 30.99,
+      "category": "desserts",
+      "img": "img/baklava-cevizli.jpg",
+      "desc": "Baklava Unu, Kahramanmaraş yöresine ait özel Ceviz, doğal tereyağı ve pancar şekeri şerbeti ile eşsiz bir lezzet. "
+    },
+    {
+      "id": 8,
+      "title": "Fıstıklı Kuru Bakava",
+      "price": 35.99,
+      "category": "desserts",
+      "img": "img/baklava-fistikli-kuru.jpg",
+      "desc": "Fıstıklı Kuru Baklava, 60 yılı aşan gelenekle özel ısıda ve özel fırınlarda pişirilir. Pişirilen baklava belli bir sıcaklığa erişince özel şerbetiyle şerbetlenirilen mükemmel bir lezzete sahiptir "
+    },
+    {
+      "id": 9,
+      "title": "Fıstıklı Midye",
+      "price": 32.99,
+      "category": "desserts",
+      "img": "img/fistikli-midye.jpg",
+      "desc": " Fıstıklı Midye tatlısı, Kahramanmaraş yeşil fıstığı ve kaymağın mükemmel şekilde bir araya geldiği özel bir lezzeti damak zevkinize sunduğumuz bir baklavamızdır. "
+    },
+    {
+      "id": 10,
+      "title": "Fıstıklı Burma",
+      "price": 35.99,
+      "category": "desserts",
+      "img": "img/fistikli-burma.jpg",
+      "desc": " Fıstıklı burma, hem lezzetinden hem de renk tonundan anlaşılacağı gibi, fıstığın yoğun olarak kullanıldığı bir baklava çeşididir. Fıstık yoğunluğundan dolayı hem tadı, hem de essiz görünümü ile damaklarda ve gözlerde kalıcı bir etki bırakmaktadır. "
+    },
+    {
+      "id": 11,
+      "title": "Fıstıklı Burma Kadayıf",
+      "price": 33.99,
+      "category": "desserts",
+      "img": "img/burmakadayif.jpg",
+      "desc": " Antep fıstığının lezzeti el yapımı kadayıfla bir araya gelerek unutulmaz bir tat sunuyor. Özenle burulan kadayıfların arasındaki Antep fıstığıyla oluşan bu lezzet, çayın yanında sohbetinize eşlik ediyor. "
+    },
+    {
+      "id": 12,
+      "title": "Fıstıklı Şöbiyet",
+      "price": 37.99,
+      "category": "desserts",
+      "img": "img/söbiyet-fistikli.jpg",
+      "desc": "Taptaze baklava yufkaları kare parçalar halinde kesiliyor, kare yufkalar, Kendi üretimimiz olan doğal tereyağında tatlandırılarak üst üste diziliyor; Süt ve irmikle hazırlanmış kaymağı, bolca fıstıkla birleşip kare yufkaların içine diziliyor."
+    },
+    {
+      "id": 13,
+      "title": "Kırmızı Kadife",
+      "price": 17.99,
+      "category": "cakes",
+      "img": "img/kirmizi-kadife.jpg",
+      "desc": "Tam yağlı sütten elde edilen ve asidik bir tat da taşıyan buttermilk'i, ülkemizde kolay kolay bulamadığımızdan bir benzerini restoranımızda kendimiz hazırlıyoruz ve butter milk sayesinde kırmızı rengini alsa da orijinal reçetelerin çoğunda pancar kökleri, dut gibi besinlerin kullanıyoruz."
+    },
+    {
+      "id": 14,
+      "title": "Bal Pasta",
+      "price": 14.99,
+      "category": "cakes",
+      "img": "img/bal-pasta.jpg",
+      "desc": "Bal pasta, içeriğinde kullanılan doğal balın eşsiz lezzetiyle hazırlanan, hafif ve sağlıklı bir tatlı alternatifidir. Yöremizden ceviz ile buluşturduk ve sizlere sunduk.  "
+    },
+    {
+      "id": 15,
+      "title": "Tiramisu",
+      "price": 16.99,
+      "category": "cakes",
+      "img": "img/tiramisu.jpg",
+      "desc": "Kahve ile ıslatılan keki, üzerine serpilen kakaosu ve içerisinde labne peyniri karışımı kreması ile damaklarınızda vazgeçilmez bir lezzet olacak. "
+    },
+    {
+      "id": 16,
+      "title": "Dağ Pasta",
+      "price": 14.99,
+      "category": "cakes",
+      "img": "img/dagpasta.jpg",
+      "desc": "Dağ pastası, kendi tarifimizle sizi farklı diyarlara götürecek, görsel şölen sunan ve lezzet dolu bir tatlıdır. İşte sizi alıp götürecek bu nefis dağ pastası tarifi ile karşınızdayız! "
+    },
+    {
+      "id": 17,
+      "title": "Malaga",
+      "price": 13.99,
+      "category": "cakes",
+      "img": "img/malaga.jpg",
+      "desc": "Adını İspanya'nın bir şehrinden alan malaga pastası, çikolatalı ganaj, eritilmiş çikolata ve krem şanti ile hazırlanır. İç kısmında muz kullanılır. Hem görünümü, hem de lezzetiyle herkesi kendine hayran bırakır. "
+    },
+    {
+      "id": 18,
+      "title": "Magnolia",
+      "price": 18.99,
+      "category": "cakes",
+      "img": "img/magnolia.jpg",
+      "desc": "Magnolia tatlısı, lezzetli ve hafif bir tatlı türüdür. Genellikle krema, süt ve yumurta gibi ana malzemelerle hazırlanır. "
+    },
+
+    {
+      "id": 19,
+      "title": "Menengiç Kahvesi",
+      "price": 21.18,
+      "category": "drinks",
+      "img": "img/menengic-kahve.jpg",
+      "desc": "Menengiç kahvesi, farklı aroması ve yumuşak içimiyle bildiğiniz kahvelerden oldukça farklı bir lezzete sahiptir. Bu kahve Türkiye'de menengiç olarak anılan bir ağacın meyvelerinden elde edilir. "
+    },
+    {
+      "id": 20,
+      "title": "Salep",
+      "price": 11.18,
+      "category": "drinks",
+      "img": "img/salep.jpg",
+      "desc": "Hoş bir kokusu ve aroması bulunan salep yarım yağlı sütle yapıldığında bir fincanı, yaklaşık 100 kalori içerir. Hafiftir ancak bir enerji değeri vardır ve kontrollü bir şekilde tüketilmesi gerekir."
+    },
+    {
+      "id": 21,
+      "title": "Sıcak Çikolata",
+      "price": 12.18,
+      "category": "drinks",
+      "img": "img/sicak-cikolata.jpg",
+      "desc": "Sevginizi sıcak çikolata ile gösterin. Sohbetlerinizde, mutlu anlarınızda ve heyecanlı dakikalarınızda içinizi ısıtan sıcak çikolata size eşlik etsin."
+    },
+    {
+      "id": 22,
+      "title": "Yaseminli Yesil Çay",
+      "price": 12.18,
+      "category": "drinks",
+      "img": "img/yesilcay.jpg",
+      "desc": "İnce uzun yaprakları , altın sarı parlak bir dem rengi ve yumuşak içimi ,nefis yasemin aroması ile çok daha farklı bir lezzet verir. Yaseminli yesil çay günü zinde geirmenize birebir!"
+    }
+  ]
+}
